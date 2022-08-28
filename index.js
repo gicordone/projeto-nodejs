@@ -33,7 +33,7 @@ app.get('/tasks', async (req, res) => {
   
   })
   
-  // Criar nova tarefa 
+  // Criar tarefa 
   // 1.Receber informação no corpo
   // 2.Adicionar tarefa no banco de dados
   // 3.Resposta para o cliente:tarefa criada ou erro. 
